@@ -46,9 +46,9 @@ We are continuously expanding our Web3 knowledge and actively participating in v
 
 ### Jseo
 - **Current**: Kakao
-- **Expertise**: Go, Java
-- **Role**: Cluster Development and Operations
-- **Responsibility**: KakaoTalk Infrastructure Management
+- **Expertise**: Python, Bash
+- **Role**: Platform Engineering for Open Sources
+- **Responsibility**: Kakao Platform Infrastructure
 - **Leadership**: 42BlockChain Korea Technical Advisory
 - [LinkedIn](https://www.linkedin.com/in/42-jseo/)
 
