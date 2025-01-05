@@ -52,13 +52,14 @@ We are continuously expanding our Web3 knowledge and actively participating in v
 - **Leadership**: 42BlockChain Korea Technical Advisory
 - [LinkedIn](https://www.linkedin.com/in/42-jseo/)
 
-### Seunghwk
-- **Current**: Web3 Developer
-- **Expertise**: Python
-- **Experience**: Various Web3 Projects
-- **Strength**: Rapid Development and Adaptation
-- **Focus**: Web3 Technology Implementation
-- **Leadership**: 42BlockChain Korea Community Development
+### Tao Kim
+- Current: Web3 Developer
+- Expertise: TypeScript, Solidity
+- Experience: Various Web3 Projects
+- Strength: Rapid Development and Adaptation
+- Focus: Web3 Technology Implementation
+- Leadership: 42BlockChain Korea Community Development
+- [LinkedIn](https://www.linkedin.com/in/tao-b-kim/)
 
 ## 🎯 Future Vision & Goals
 
